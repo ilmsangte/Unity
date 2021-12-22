@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 8806f67368a198b45884baf2f961be1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6353030117198892238
+    second: reload_ani_0
+  - first:
+      213: -9091412257433034194
+    second: reload_ani_1
+  - first:
+      213: -8326471574827427592
+    second: reload_ani_2
+  - first:
+      213: 7908420292072303690
+    second: reload_ani_3
+  - first:
+      213: 6706018044500961226
+    second: reload_ani_4
+  - first:
+      213: 8056100605921853959
+    second: reload_ani_5
+  - first:
+      213: -7678077731107950657
+    second: reload_ani_6
+  - first:
+      213: -5886803888648928349
+    second: reload_ani_7
+  - first:
+      213: 6924624766913155088
+    second: reload_ani_8
+  - first:
+      213: 638234019193660180
+    second: reload_ani_9
+  - first:
+      213: -3025922229576932362
+    second: reload_ani_10
+  - first:
+      213: 293222615779008797
+    second: reload_ani_11
+  - first:
+      213: 8405012288484418999
+    second: reload_ani_12
+  - first:
+      213: -4413385039282497902
+    second: reload_ani_13
+  - first:
+      213: -5648594127825057178
+    second: reload_ani_14
+  - first:
+      213: -5865737503591680106
+    second: reload_ani_15
+  - first:
+      213: -4800040274454075120
+    second: reload_ani_16
+  - first:
+      213: -2818497304034238689
+    second: reload_ani_17
+  - first:
+      213: 8002950773320919894
+    second: reload_ani_18
+  - first:
+      213: 2457264810564354425
+    second: reload_ani_19
+  - first:
+      213: -7113892143153493429
+    second: reload_ani_20
+  - first:
+      213: -9045633058307993550
+    second: reload_ani_22
+  - first:
+      213: -2467282466706625231
+    second: reload_ani_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reload_ani_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 166
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2337009a4c085d7a0800000000000000
+      internalID: -6353030117198892238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22621168b0d4d180800000000000000
+      internalID: -9091412257433034194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8160ed73e627c80800000000000000
+      internalID: -8326471574827427592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 186
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ce573ea5a50cd60800000000000000
+      internalID: 7908420292072303690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 186
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7e6d7a1ef801d50800000000000000
+      internalID: 6706018044500961226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 186
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70208ca61d40dcf60800000000000000
+      internalID: 8056100605921853959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 161
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf2977dbfcf17590800000000000000
+      internalID: -7678077731107950657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 169
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a341ba8d0fdd4ea0800000000000000
+      internalID: -5886803888648928349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 169
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0101bba8985391060800000000000000
+      internalID: 6924624766913155088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 169
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ab9d75767bd800800000000000000
+      internalID: 638234019193660180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 169
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3eb14a3c3c106d0800000000000000
+      internalID: -3025922229576932362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 168
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d116e9d5a6cb11400800000000000000
+      internalID: 293222615779008797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 168
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b528eb052a94a470800000000000000
+      internalID: 8405012288484418999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 119
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.11111111, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2961b8c90b180c2c0800000000000000
+      internalID: -4413385039282497902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 0.10344827, y: 0.84210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a41aa71992c91b0800000000000000
+      internalID: -5648594127825057178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 121
+        width: 34
+        height: 18
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.7777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6973bb881d6b89ea0800000000000000
+      internalID: -5865737503591680106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 126
+        width: 36
+        height: 20
+      alignment: 9
+      pivot: {x: 0.25, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019a8955dc4d26db0800000000000000
+      internalID: -4800040274454075120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 120
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f94a092afa2e8d0800000000000000
+      internalID: -2818497304034238689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 117
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.10344827, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b2bbea351301f60800000000000000
+      internalID: 8002950773320919894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 116
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.10344827, y: 0.61290324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97181c87355f91220800000000000000
+      internalID: 2457264810564354425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 116
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.10344827, y: 0.61290324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ac4ec69c0664d90800000000000000
+      internalID: -7113892143153493429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 126
+        width: 28
+        height: 15
+      alignment: 9
+      pivot: {x: 0.071428575, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2309507c8a4777280800000000000000
+      internalID: -9045633058307993550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reload_ani_23
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 126
+        width: 28
+        height: 15
+      alignment: 9
+      pivot: {x: 0.071428575, y: 0.8000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de6633ba372cdd0800000000000000
+      internalID: -2467282466706625231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
